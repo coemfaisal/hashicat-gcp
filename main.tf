@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 terraform {
   required_providers {
     google = {
