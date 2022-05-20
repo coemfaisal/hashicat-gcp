@@ -1,4 +1,3 @@
-
 terraform {
   required_providers {
     google = {
@@ -241,4 +240,3 @@ resource "null_resource" "configure-cat-app" {
     }
   }
 }
->>>>>>> 6a7e9b060131ce0512c695d27d409eaaa676ae86
