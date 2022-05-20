@@ -2,7 +2,7 @@ module "network" {
   source  = "app.terraform.io/coemfaisal/network/google"
   version = "3.4.0"
   project_id = var.project_id
-  name = "gaurav-network"
+  network_name = "gaurav-network"
 
   subnets = [
       {
